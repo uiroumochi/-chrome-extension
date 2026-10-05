@@ -5,7 +5,7 @@
 // @description  AtCoderの問題ページでヘッダー・ナビゲーション・コンテスト情報を切り替えます
 // @author       You
 // @match        https://atcoder.jp/contests/*/custom_test
-// @match        https://atcoder.jp/contests/*/tasks
+// @match        https://atcoder.jp/contests/*/tasks/*
 // @grant        none
 // ==/UserScript==
 
